@@ -1,0 +1,60 @@
+*	{
+	margin:0px;
+	line-height:1.6;
+	}
+	
+	body {
+
+	background-image:url('logo.jpg');
+	font-family: 'Shantell Sans', cursive;
+	}
+	
+	h1 {
+	color:white;
+	}
+	
+	a {
+	color:blue;
+	text-decoration:none;
+	}
+	
+	a:hover {
+	color:black;
+	}
+	button{width:80px; 
+		height:20px;
+	}
+	
+	#cabecera{
+		background-color:red;
+		margin-bottom:15px;
+		padding:30px;
+		text-align:center; font-family: 'Tilt Prism', cursive;
+	}
+	#menu {
+		background-color:pink;
+		margin-bottom:15px;
+		padding:10px;
+		}
+	#contenidos {
+		background-color:WHITE;
+		width:90%;
+		margin:0 auto 0 auto;
+		padding:60px;
+		border:1px solid black;
+		border-radius:10px;
+		}
+	#piepagina {
+		background-color:PINK;color:blue;
+		margin-top:15px;
+		padding:20px 0px 20px 20px;
+		font-size:14px;
+		
+		}
+	.enlacesRecursos {
+		color:red;
+	}
+	
+	.enlacesRecursos:hover {
+	color:pink;
+	}
